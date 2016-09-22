@@ -1,0 +1,30 @@
+{
+  "name": "makerjs-nameplate",
+  "version": "1.0.0",
+  "description": "A nameplate for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-nameplate.git"
+  },
+  "keywords": [
+    "maker.js",
+    "makerjs",
+    "name",
+    "plaque",
+    "badge"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-nameplate/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-nameplate#readme",
+  "dependencies": {
+    "makerjs": "^0.9.15",
+    "opentype.js": "^0.6.5"
+  }
+}
